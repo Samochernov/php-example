@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cebc2cc0-8d2a-48d8-a962-d54eddaffe4e" name="Airsoft" url="http://airsoft-rus.ru">
+        <fileTransfer host="89.108.107.139" port="22" rootFolder="/home/bitrix/" accessType="SFTP" username="bitrix">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
